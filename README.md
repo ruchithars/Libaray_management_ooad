@@ -8,5 +8,4 @@
   * [GSon](https://github.com/google/gson) - JSON Library. Used for storing configuration
   * [FontawesomeFX](https://bitbucket.org/Jerady/fontawesomefx) - Icon library
   * [Apache PDFBox](https://pdfbox.apache.org/) - PDF Export
-  * [JavaMail API](http://www.oracle.com/technetwork/java/javamail/index.html) - Email Notification
 
