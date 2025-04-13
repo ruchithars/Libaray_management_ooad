@@ -28,15 +28,3 @@
   * [Apache PDFBox](https://pdfbox.apache.org/) - PDF Export
   * [JavaMail API](http://www.oracle.com/technetwork/java/javamail/index.html) - Email Notification
 
-### Screenshots
-<p align="center">
-  <img src=https://i.imgur.com/txmOeXS.png>
-  <img src=https://i.imgur.com/Ezj7Bdh.png>
-  <img src=https://i.imgur.com/YyK54nF.png>
-  <img src=https://i.imgur.com/0wCfUjQ.png>
-  <img src=https://i.imgur.com/E4OhaWl.png>
-  <img src=https://i.imgur.com/3WMG9Bm.png>
-  <img src=https://i.imgur.com/3316yUv.png>
-  <img src=https://i.imgur.com/y7jrx93.png>
-  <img src=https://i.imgur.com/O0LXqoK.png>
-</p>
