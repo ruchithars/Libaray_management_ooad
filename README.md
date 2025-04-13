@@ -18,10 +18,7 @@ This is a library management software developed using JavaFX programming languag
    <p align="center">
     <img src=https://i.imgur.com/WrWZqLr.png>
    </p>
-### Default Login Credentials
-| Username  | Password |
-| ------------- | ------------- |
-| admin  | admin  |
+
 
 ### Libraries Used
   * [JFoenix](https://github.com/jfoenixadmin/JFoenix) - JavaFX Material Design Library
