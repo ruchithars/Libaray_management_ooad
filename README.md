@@ -1,6 +1,6 @@
 #  Library Management Software using JavaFX
 
-### New Features
+### 
 * One-click database export
   <p align="center">
    <img src=https://i.imgur.com/ufZOqkn.png>
