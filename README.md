@@ -1,4 +1,4 @@
-#  Library Management Software using JavaFX
+#  Library Management System using JavaFX
 
 
 ### Libraries Used
